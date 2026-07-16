@@ -94,7 +94,7 @@ window.addEventListener('scroll', () => {
 // =============================================
 // Project Section — GitHub বা Local থেকে Data নেওয়া
 // =============================================
-const URL = "https://raw.githubusercontent.com/NayemHasan2007/NayemHasan2007.github.io/main/projects/data.json";
+const URL = "https://raw.githubusercontent.com/NayemHasan2007/NayemHasan2007.github.io/main/projects/projects.json";
 
 const projectsGrid = document.querySelector('.projects-grid');
 const backdrop = document.getElementById('modalBackdrop');
