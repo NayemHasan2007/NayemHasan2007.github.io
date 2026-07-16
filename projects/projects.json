@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "title": "SmartScraper - Web Data Collector & Report Generator",
+      "subtitle": "An automated web scraping tool that collects data from websites, processes it with Pandas, and generates professional Excel & PDF reports with daily scheduling support.",
+      "image_url": "https://raw.githubusercontent.com/NayemHasan2007/NayemHasan2007.github.io/main/projects/images/smartScraper.jpg",
+      "tech_stack": ["Python", "Selenium", "BeautifulSoup", "Pandas", "OpenPyXL", "ReportLab"],
+      "problem": "Businesses and researchers waste hours manually copying data from websites. There was no simple tool to automate data collection and instantly generate clean, professional reports.",
+      "solution": "Built a complete pipeline that scrapes 1000+ records from static and dynamic websites, cleans and analyzes the data with Pandas, and automatically generates formatted Excel and PDF reports with a single command.",
+      "key_features": [
+        "Static & dynamic scraping with Requests, BeautifulSoup, and Selenium",
+        "Automated Excel report with 4 sheets and PDF report with 3 pages",
+        "Daily scheduling with logging support via schedule library"
+      ],
+      "live_demo_url": "",
+      "github_url": "https://github.com/NayemHasan2007/smartscraper"
+    },
+    {
+      "title": "Expense Tracker - Personal Finance Manager",
+      "subtitle": "A full-stack personal finance tracking app with FastAPI backend, SQLite database, Pandas analysis, AI-powered category suggestion, and PDF report generation.",
+      "image_url": "https://raw.githubusercontent.com/NayemHasan2007/NayemHasan2007.github.io/main/projects/images/expensetracker.png",
+      "tech_stack": ["Python", "FastAPI", "SQLite3", "Pandas", "ReportLab", "JavaScript", "Chart.js"],
+      "problem": "People struggle to track their daily expenses and understand their spending habits. Most tools are either too complex or lack meaningful analysis and reporting features.",
+      "solution": "Built a full-stack expense tracker with a FastAPI REST API backend and a clean HTML/CSS/JS frontend. Includes AI-powered category suggestion based on keywords, interactive charts, and one-click PDF report download.",
+      "key_features": [
+        "AI-powered category auto-suggestion based on expense title",
+        "Interactive dashboard with Chart.js doughnut and bar charts",
+        "One-click PDF report generation with summary, category breakdown, and full expense table"
+      ],
+      "live_demo_url": "",
+      "github_url": "https://github.com/NayemHasan2007/expense-tracker"
+    }
+  ]
+}
