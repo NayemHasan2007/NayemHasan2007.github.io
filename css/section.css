@@ -148,10 +148,10 @@
     display: flex;
     position: relative;
     aspect-ratio: 1/1;
-    width: 80%;
     border-radius: 50%;
     align-items: center;
     justify-content: center;
+    margin: 10%;
 }
 
 .hero-box::before {
